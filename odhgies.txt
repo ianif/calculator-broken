@@ -1,0 +1,15 @@
+ Compilation:
+bash
+Copy
+Edit
+python -m py_compile calculator.py main.py
+✅ Unit Tests:
+bash
+Copy
+Edit
+python -m unittest test_calculator.py
+✅ Benchmark:
+bash
+Copy
+Edit
+python benchmark.py
