@@ -8,7 +8,7 @@ bash
 Copy
 Edit
 python -m unittest test_calculator.py
-✅ Benchmark:
+✅ Benchmark::
 bash
 Copy
 Edit
