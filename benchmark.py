@@ -1,4 +1,4 @@
-# Author: IOANNNA
+# Author: [Author Name]
 import time
 from calculator import add, subtract, multiply, divide
 
